@@ -105,4 +105,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ed7d1ff9281af94a8d6770c3c8a4ee8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MSpeed: 1.5
+  MSpeed: 2.3
+  fallingCube: {fileID: 0}
